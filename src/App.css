@@ -1,0 +1,22 @@
+.spaceShip{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 100px;
+    width: 100px;
+    border: 1px black solid;
+    background-color: green;
+    color:white;
+    margin: 5%;
+    border-radius: 25%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.space{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    /* justify-content: center; */
+}
